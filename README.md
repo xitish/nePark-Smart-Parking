@@ -39,4 +39,4 @@ Will be updated soon
 
 > __The Web Platform__
 
-Will be updated soon
+The files and database should be hosted in  a server. The credentials in `mysqli_connect.php` file should be changed as per the setup.
